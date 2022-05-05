@@ -29,9 +29,9 @@ final class UnsplashVC: UIViewController {
     private let itemsPerRow: CGFloat = 3
     private let flowLayout: UICollectionViewFlowLayout = {
         let layout = UICollectionViewFlowLayout()
-        layout.minimumInteritemSpacing = 4
-        layout.minimumLineSpacing = 4
-        layout.sectionInset = UIEdgeInsets(top: 0, left: 4, bottom: 0, right: 4)
+        layout.minimumInteritemSpacing = 2
+        layout.minimumLineSpacing = 2
+        layout.sectionInset = UIEdgeInsets(top: 0, left: 2, bottom: 0, right: 2)
         return layout
     }()
     
