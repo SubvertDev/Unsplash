@@ -17,3 +17,5 @@
 - Должен быть как минимум один алерт.
 
 Ссылка на API – https://unsplash.com/documentation
+
+![screenshots](screenshots.png)
